@@ -1,0 +1,1 @@
+alert("Learning Git can be useful")
